@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276864886885",
+    "firebase_url": "https://easier-gym-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "easier-gym",
+    "storage_bucket": "easier-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276864886885:android:2e647a8c35d930e23bbe8c",
+        "android_client_info": {
+          "package_name": "com.easiergymapp.easiergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276864886885-1knhm62jelhlnaon6rv32kb0vfcfqf83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easiergymapp.easiergym",
+            "certificate_hash": "3228c97611ff89c22591bb7d1a31e26028ad818b"
+          }
+        },
+        {
+          "client_id": "276864886885-m882r1ff92ehe6em3skkk94gig982e6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEjbCBsa9Cz2BLwADTU2WtXxvCEwfAYrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276864886885-d70r8m3c95tu293cmnlgau7dkr3o9kit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276864886885-16h5ofd58ushjjg0qvpll094ph6an6cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easiergymapp.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
